@@ -1,0 +1,49 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    margin-top: 26%;
+    justify-content: space-evenly;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+a:link{
+    display: flex;
+    color:black;
+    background-color: #aaa;
+    border-radius: 30px;
+    padding: 5px;
+    border: solid;
+    border-radius: 50%;
+}
+a:visited{
+    display: flex;
+    color:black;
+    background-color: #aaa;
+    border-radius: 10px;
+    padding: 5px;
+}
+a:hover{
+    display: flex;
+    color:black;
+    background-color: #ccc;
+    border-radius: 10px;
+    padding: 5px;
+    text-decoration: underline;
+}
+a:active{
+    display: flex;
+    color:black;
+    background-color: #aaa;
+    border-radius: 10px;
+    padding: 5px;
+}
+body{
+    background-color: rgb(68, 12, 136);
+}
